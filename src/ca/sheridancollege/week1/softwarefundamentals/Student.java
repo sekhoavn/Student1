@@ -6,7 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- *
+ * Wednesday
  * @author test Feb 06,2019
  */
 public class Student {
